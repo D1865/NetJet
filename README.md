@@ -25,9 +25,13 @@ Dive into network discovery with `NetJet`, a powerful Python tool designed for n
 
 ## Installation & Usage
 
+
  `Clone the repo`
+ 
  `cd NetJet`
+ 
  `chmod +x netjet.py`
+ 
 `python netjet.py --ip-ranges "192.168.1.1-192.168.1.50,10.0.0." --ports "22,80,443"`
 
 `python netjet.py -h`
