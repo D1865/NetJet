@@ -23,25 +23,26 @@ Dive into network discovery with `NetJet`, a powerful Python tool designed for n
 - Requests (for potential future enhancements)
 
 
-##Installation & Usage
+## Installation & Usage
 
 ### `Clone the repo`
 ### `cd NetJet`
-### chmod +x netjet.py
+### `chmod +x netjet.py`
 `python netjet.py --ip-ranges "192.168.1.1-192.168.1.50,10.0.0." --ports "22,80,443"`
-python netjet.py -h
+
+`python netjet.py -h`
 
 
 
-##Contributing
+## Contributing
 Contributions to NetJet are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-#Don't forget to give the project a star! Thanks again!
+## Don't forget to give the project a star! Thanks again!
 
-#License
-##Distributed under the MIT License. See LICENSE for more information.
+# License
+## Distributed under the MIT License. See LICENSE for more information.
 
-#Acknowledgments
+# Acknowledgments
 - The Scapy community for an amazing packet manipulation tool.
 - Nmap for the powerful OS detection capabilities.
 - IEEE for maintaining the OUI database.
