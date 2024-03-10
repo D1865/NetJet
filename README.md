@@ -1,9 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/D1865/NetJet/main/netjet.png "333")
 
 
-# NetJet
-Dive into network discovery with NetJet
-# NetJet: The Network Explorer
+# NetJet: Network Explorer
 
 
 Dive into network discovery with `NetJet`, a powerful Python tool designed for network administrators, security professionals, and anyone curious about the devices on their network. `NetJet` simplifies the task of scanning IP ranges, identifying open ports, detecting operating systems, and much more, all with an easy-to-use command-line interface.
